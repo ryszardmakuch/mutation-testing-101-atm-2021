@@ -11,7 +11,7 @@ Slides and references to my lighting talk given in Polish at Allegro Tech Meetin
 - [State of Mutation Testing at Google](https://research.google/pubs/pub46584/).
 
 ## Links:
-- [pitest](https://pitest.org/)
+- [pitest](https://pitest.org/),
 - [pitest: incremental analysis](https://pitest.org/quickstart/incremental_analysis/),
 - [pitest: CI/CD demo with Github Actions](https://github.com/GroupCDG-Labs/pitest-github-demo/pull/1/files),
 - [Gradle pitest plugin](https://gradle-pitest-plugin.solidsoft.info/),
