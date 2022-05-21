@@ -1,6 +1,6 @@
 # Mutation Testing 101 at Allegro Tech Meeting 14 (2021)
 
-Slides and references to my lighting talk given in Polish at Allegro Tech Meeting 14 (2021).
+Slides and references to my lighting talk given in Polish at [Allegro Tech Meeting 14 (2021)](https://allegro.pl/zobacz/atm2021).
 
 [![Mutation Testing 101](https://i.imgur.com/7L6LPJV.png)](https://www.youtube.com/watch?v=GibLUL2sYuAY "Mutation Testing 101")
 
