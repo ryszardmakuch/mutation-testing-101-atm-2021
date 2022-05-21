@@ -13,7 +13,7 @@ Slides and references to my lighting talk given in Polish at Allegro Tech Meetin
 ## Links:
 - [pitest](https://pitest.org/)
 - [pitest: incremental analysis](https://pitest.org/quickstart/incremental_analysis/),
-- [pitest: CI/CD demo with Github Actions](https://github.com/GroupCDG-Labs/pitest-github-demo/pull/1/files).
+- [pitest: CI/CD demo with Github Actions](https://github.com/GroupCDG-Labs/pitest-github-demo/pull/1/files),
 - [Gradle pitest plugin](https://gradle-pitest-plugin.solidsoft.info/),
 - [Sonar pitest plugin](https://github.com/VinodAnandan/sonar-pitest),
 - [Exemplary report of the real issue which has been detected with pitest in the parallel-collectors project](https://github.com/pivovarit/parallel-collectors/pull/552).
